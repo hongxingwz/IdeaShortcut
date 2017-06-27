@@ -1,5 +1,5 @@
 ###打开/关闭 Version Control 控制台
-alt+9
+**alt+9**
 
 ###git 文件状态(File Status)所对应的颜色
 
@@ -15,11 +15,13 @@ alt+9
 
 
 ###把文件添加至暂存区(文件可多选)
-在左侧Project的目录树下，左键选中要添加的文件Ctrl + Alt + A
+在左侧Project的目录树下，左键选中要添加的文件**Ctrl + Alt + A**
 
 ###把文件回退到最近的一个版本(文件可多选)
-在左侧Project的目录树下，左键选中要添加的文件Ctrl + Alt + Z
+在左侧Project的目录树下，左键选中要添加的文件**Ctrl + Alt + Z**
 
+###查看文件与最近的版本的不同
+**alt+9**切换出Version Control 控制台,在Default下会列出，你修改过的文件，左键选中你要想比较不同的文件**Ctrl + D**
 
 
 
