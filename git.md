@@ -26,6 +26,10 @@
 ###push最近的commit
 **Control + Shift + K**
 
+###commit changes
+**Control + K**
+
+
 
 
 
