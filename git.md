@@ -23,7 +23,8 @@
 ###查看文件与最近的版本的不同
 **alt+9**切换出Version Control 控制台,在Default下会列出，你修改过的文件，左键选中你要想比较不同的文件**Ctrl + D**
 
-
+###push最近的commit
+**Control + Shift + K**
 
 
 
