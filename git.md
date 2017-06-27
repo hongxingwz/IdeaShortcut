@@ -8,8 +8,10 @@ alt+9
 |未添加(Unknow)|红色|
 |已经添加(Added)|绿色|
 |更改(Modified)|蓝色|
-文件颜色可以根据自己的喜好配置
 
+文件颜色可以根据自己的喜好配置
+在File >> Settings 搜索 **File Status**
+![](/assets/snapshot12.png)
 
 
 
