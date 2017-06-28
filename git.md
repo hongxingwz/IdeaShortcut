@@ -26,6 +26,11 @@
 ###push最近的commit
 **Control + Shift + K**
 
+###打开commit changes的面板
+**Control + K**
+![](/assets/snapshot14.png)
+
+
 
 
 
