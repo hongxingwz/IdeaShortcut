@@ -5,4 +5,6 @@
 * [git](git.md)
 * [serialize](serialize.md)
 * [refacter\(重构\)](refacter.md)
+* [find\(查找\)](findcha-627e29.md)
+* [run\(运行\)](runyun-884c29.md)
 
