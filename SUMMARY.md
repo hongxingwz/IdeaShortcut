@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
 * [refacter\(重构\)](refacter.md)
