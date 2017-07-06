@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [git](git.md)
-* [serialize](serialize.md)
+* [git版本控制\)](git.md)
+* [serialize\(序列化\)](serialize.md)
 * [refacter\(重构\)](refacter.md)
 * [find\(查找\)](findcha-627e29.md)
 * [run\(运行\)](runyun-884c29.md)
