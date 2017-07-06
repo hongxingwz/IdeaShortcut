@@ -1,4 +1,4 @@
-### 打开/关闭 Version Control 控制台
+### 打开/关闭 Version Control 控制台1
 
 **alt+9**
 
