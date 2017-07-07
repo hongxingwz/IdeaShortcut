@@ -4,13 +4,25 @@
 
 键入psf
 
+```
+public static final 
+```
+
 ## public static final int
 
 键入psfi
 
+```
+public static final int
+```
+
 ## public static final String
 
 键入psfs
+
+```
+ public static final int 
+```
 
 # 常用方法
 
@@ -52,8 +64,6 @@ System.err.println("");
         return super.toString();
     }
 ```
-
-
 
 ## equals
 
