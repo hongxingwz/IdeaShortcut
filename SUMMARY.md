@@ -11,4 +11,6 @@
 * [Navigate\(导航\)](navigatedao-822a29.md)
 * [Editor\(编辑器\)](editor.md)
 * [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
+* [help\(帮助\)](helpbang-52a929.md)
+* [IntelliJ IDEA Tips](intellij-idea-tips.md)
 
