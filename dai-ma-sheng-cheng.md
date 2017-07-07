@@ -35,8 +35,6 @@ while (iterator.hasNext()) {
 }
 ```
 
-
-
 # 从左至右迭代数组
 
 在相应数组下 itar
@@ -45,11 +43,9 @@ while (iterator.hasNext()) {
 String[] strs = {"a", "b", "c"};
 for (int i = 0; i < strs.length; i++) {
     String str = strs[i];
-    
+
 }
 ```
-
-
 
 # 从右至左迭代数组
 
@@ -59,8 +55,18 @@ for (int i = 0; i < strs.length; i++) {
 String[] strs = {"a", "b", "c"};
 for (int i = strs.length - 1; i >= 0; i--) {
     String str = strs[i];
-    
+
 }
+```
+
+# 生成 for循环
+
+forifori
+
+```
+for (int i = 0; i < ; i++) {
+            
+ }
 ```
 
 
