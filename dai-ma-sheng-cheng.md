@@ -61,11 +61,11 @@ for (int i = strs.length - 1; i >= 0; i--) {
 
 # 生成 for循环
 
-forifori
+fori
 
 ```
 for (int i = 0; i < ; i++) {
-            
+
  }
 ```
 
