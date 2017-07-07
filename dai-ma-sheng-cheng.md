@@ -51,7 +51,7 @@ for (int i = 0; i < strs.length; i++) {
 
 在相应数组下 litar
 
-```
+```java
 String[] strs = {"a", "b", "c"};
 for (int i = strs.length - 1; i >= 0; i--) {
     String str = strs[i];
@@ -63,7 +63,7 @@ for (int i = strs.length - 1; i >= 0; i--) {
 
 fori
 
-```
+```java
 for (int i = 0; i < ; i++) {
 
  }
