@@ -11,14 +11,88 @@
 
 ## 取消自动的代码高亮
 
-在**Editor | General** 中的 **Highlight usages of element as cart**选选项，可以关闭鼠标点击时相同代码的高亮
-![](/assets/屏幕快照 2017-07-07 下午11.34.17.png)
+在**Editor \| General** 中的 **Highlight usages of element as cart**选选项，可以关闭鼠标点击时相同代码的高亮  
+![](/assets/屏幕快照 2017-07-07 下午11.34.17.png)  
 可以通过**Ctrl + Shift + F7**快捷键显式的调用
 
-##驼峰(CamelHumps)
-默认的，当你在编辑器中选择任何东西时，Idea对大小写是不敏感的，如果你喜欢通过驼峰式的选取单词的方式，例如你不想选取整个单词，而是想选取单词的一部分，你可以勾选Settings/Perferences对话框**Editor | General | Smart Keys**选项中的**Use "CamelHump" words**选项
+## 驼峰\(CamelHumps\)
+
+默认的，当你在编辑器中选择任何东西时，Idea对大小写是不敏感的，如果你喜欢通过驼峰式的选取单词的方式，例如你不想选取整个单词，而是想选取单词的一部分，你可以勾选Settings/Perferences对话框**Editor \| General \| Smart Keys**选项中的**Use "CamelHump" words**选项  
 ![](/assets/屏幕快照 2017-07-07 下午11.53.28.png)
 
-##Hippie completion(代码补全相关）
-IDEA提供基本的补全**Ctrl + Space**，聪明的补全**Ctrl + Shift + Space**，和语句补全**Ctrl + Shift + Enter**
+## Hippie completion\(代码补全相关）
+
+IDEA提供基本的补全**Ctrl + Space**，
+
+聪明的补全**Ctrl + Shift + Space**，
+
+和语句补全**Ctrl + Shift + Enter**
+
+默默的补全**Alt + /**
+
+
+
+# 重构
+
+## 取消重构\(Undo refactorings\)
+
+当你重构代码时，又想反悔时，**Ctrl + Z**
+
+## 重构参数类型\(Type migration\)
+
+**Ctrl + Shift + F6**
+
+比如你想把private String name = "jianglei" 重构为 private Object name = "jianglei"
+
+```
+public class Test {
+    private String name = "jianglei";
+
+    private Integer age;
+
+    private String love;
+
+
+    public String getName() {
+        return name;
+    }
+
+    public String sayName() {
+        return getName();
+    }
+
+    public static void main(String[] args) {
+        Test test = new Test();
+        String s = test.sayName();
+    }
+}
+```
+
+重构完之后
+
+```
+public class Test {
+    private Object name = "jianglei";
+
+    private Integer age;
+
+    private String love;
+
+
+    public Object getName() {
+        return name;
+    }
+
+    public Object sayName() {
+        return getName();
+    }
+
+    public static void main(String[] args) {
+        Test test = new Test();
+        Object s = test.sayName();
+    }
+}
+```
+
+
 
