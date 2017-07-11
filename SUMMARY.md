@@ -13,4 +13,5 @@
 * [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
 * [help\(帮助\)](helpbang-52a929.md)
 * [IntelliJ IDEA Tips](intellij-idea-tips.md)
+* [Auto Import\(自动导包\)](auto-importzi-dong-dao-530529.md)
 
