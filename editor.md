@@ -29,9 +29,15 @@
 **减少一个光标：Alt + Shift + J**  
 ![](/assets/snapshot28.png)
 
-**在当前行上一行新建一个空白行，并把光标移动当空白行:Ctrl + Alt + Enter**
+**在当前行上一行新建一个空白行，并把光标移动到空白行:Ctrl + Alt + Enter**
 ![](/assets/snapshot34.png)
+Ctrl + Alt + Enter
+![](/assets/snapshot35.png)
 
+**在当前行下一行新建一个空白行，并把光标移动到空白行:Shift + Enter**
+![](/assets/snapshot34.png)
+Shift + Enter
+![](/assets/snapshot36.png)
 ### 代码补全
 
 | Action | Description |
