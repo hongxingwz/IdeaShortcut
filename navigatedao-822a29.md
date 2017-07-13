@@ -23,5 +23,13 @@ Control + F12
 
 
 
+##导航
+|action| description|
+|----|-----|
+|最近打开的文件(Recent Files)| Ctrl + E|
+|导航类(Navigate to class)|Ctrl + N|
+|导航文件(Navigate to File)|Ctrl + Shift + N|
+|导航变量(Navigate to Symbol| Ctrl + Shift + Alt + N|
+
 
 
