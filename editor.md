@@ -10,5 +10,7 @@ Alt + Shift + Up/Down
 
 Control + Shift + J
 
+### 大小写切换
 
+ctrl + shift + u
 
