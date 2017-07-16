@@ -53,5 +53,10 @@ Control + Shift + J
 
 ### 大小写切换
 
-ctrl + shift + u
+Ctrl + Shift + U
+
+### 查看类或方法的注释文档
+Ctrl + Q
+
+
 
