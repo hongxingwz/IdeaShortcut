@@ -1,3 +1,5 @@
+# 代码生成快捷键
+Ctrl + J
 # 常用修饰符
 
 ## public static final
