@@ -38,6 +38,11 @@ Ctrl + Alt + Enter
 ![](/assets/snapshot34.png)
 Shift + Enter
 ![](/assets/snapshot36.png)
+
+**在当前行下一行新建一个空白行，不移动光标:Ctrl + Enter**
+![](/assets/snapshot41.png)
+Ctrl + Enter
+![](/assets/snapshot42.png)
 ### 代码补全
 
 | Action | Description |
