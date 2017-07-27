@@ -16,10 +16,18 @@
 | 围绕\(Surround with\) | Ctrl + Alt + T |
 | 高亮一个符号\(自定义的变量名\) | Ctrl + F7 \| 鼠标左击\(更方便\) |
 
-**选中一块代码:Control + W**
+**选中一块代码:**
+
+win: **Control + W**
+
+mac: **Cmd + W**
 
 ![](/assets/snapshot25.png)  
-**缩减选中的代码：Control + Shift + W**
+**缩减选中的代码：**
+
+win: **Control + Shift + W**
+
+mac: **Cmd + Shift + W**
 
 ![](/assets/snapshot26.png)
 
@@ -29,20 +37,21 @@
 **减少一个光标：Alt + Shift + J**  
 ![](/assets/snapshot28.png)
 
-**在当前行上一行新建一个空白行，并把光标移动到空白行:Ctrl + Alt + Enter**
-![](/assets/snapshot34.png)
-Ctrl + Alt + Enter
+**在当前行上一行新建一个空白行，并把光标移动到空白行:Ctrl + Alt + Enter**  
+![](/assets/snapshot34.png)  
+Ctrl + Alt + Enter  
 ![](/assets/snapshot35.png)
 
-**在当前行下一行新建一个空白行，并把光标移动到空白行:Shift + Enter**
-![](/assets/snapshot34.png)
-Shift + Enter
+**在当前行下一行新建一个空白行，并把光标移动到空白行:Shift + Enter**  
+![](/assets/snapshot34.png)  
+Shift + Enter  
 ![](/assets/snapshot36.png)
 
-**在当前行下一行新建一个空白行，不移动光标:Ctrl + Enter**
-![](/assets/snapshot41.png)
-Ctrl + Enter
+**在当前行下一行新建一个空白行，不移动光标:Ctrl + Enter**  
+![](/assets/snapshot41.png)  
+Ctrl + Enter  
 ![](/assets/snapshot42.png)
+
 ### 代码补全
 
 | Action | Description |
@@ -50,18 +59,43 @@ Ctrl + Enter
 | 基本补全 | Ctrl + Space |
 | 智能补全 | Ctrl + Shift + Space |
 | 完成语句 | Ctrl + Shift + Enter |
-| 方法或构造器的参数建议 | Ctrl + P |
+| 方法或构造器的参数建议 | mac: **Cmd + P** win: **Ctrl + P** |
+
+当使用代码补全时，你可以高亮合适的提示，然后键入句号(.) 逗号(,) 分号(;)和其它字符，这样会自动补全，并以你输入的符号结尾。
 
 ### 折行
 
-Control + Shift + J
+win: Control + Shift + J
+
+mac: Ctrl + Shift + J
 
 ### 大小写切换
 
-Ctrl + Shift + U
+win: **Ctrl + Shift + U**
+
+mac: **Cmd + Shift + U**
 
 ### 查看类或方法的注释文档
-Ctrl + Q
+
+mac: **Ctrl + J**
+
+win: **Ctrl + Q**
+
+### 高亮的语法错误间跳转
+
+mac: **F2 / Shift + F2**
+
+### 编译错误信息或搜索操作结果
+
+mac: **alt + cmd + up / alt + cmd + down**
+
+### 粘贴板
+
+mac: **Shift + Cmd + V**
+
+### 跳转到方法声明处
+
+mac: **Cmd + B**
 
 
 

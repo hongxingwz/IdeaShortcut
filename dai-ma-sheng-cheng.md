@@ -1,5 +1,9 @@
 # 代码生成快捷键
-Ctrl + J
+
+win: Ctrl + J
+
+mac: Cmd + J
+
 # 常用修饰符
 
 ## public static final
@@ -7,7 +11,7 @@ Ctrl + J
 键入psf
 
 ```
-public static final 
+public static final
 ```
 
 ## public static final int
@@ -23,7 +27,7 @@ public static final int
 键入psfs
 
 ```
- public static final int 
+ public static final int
 ```
 
 # 常用方法
