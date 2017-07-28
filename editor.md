@@ -99,10 +99,10 @@ mac: **Cmd + B**
 
 ### 高亮相同的单词
 
-mac: **Shfit + Cmd + F7**
+mac: **Shift + Cmd + F7**
 
 ### 导航至相对应的文件夹
-mac: Cmd + click 文件导航处的标题
+mac: **Cmd + click** 文件导航处的标题
 ![](/assets/import2.png)
 
 
