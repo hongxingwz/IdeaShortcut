@@ -102,9 +102,15 @@ mac: **Cmd + B**
 mac: **Shift + Cmd + F7**
 
 ### 导航至相对应的文件夹
-mac: **Cmd + click** 文件导航处的标题
+
+mac: **Cmd + click** 文件导航处的标题  
 ![](/assets/import2.png)
 
+### 按住alt 拖动鼠标可进行多光标编辑
+
+### ![](/assets/import3.png)
+
+### 如果你没有选中任何东西，而按Cmd + C,会复制光标所在的整行
 
 
 

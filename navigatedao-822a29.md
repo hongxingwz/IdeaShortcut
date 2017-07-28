@@ -26,12 +26,10 @@ Control + F12
 
 | action | description |
 | --- | --- |
-| 最近打开的文件\(Recent Files\) | Ctrl + E |
-| 导航类\(Navigate to class\) | Ctrl + N |
-| 导航文件\(Navigate to File\) | Ctrl + Shift + N |
+| 最近打开的文件\(Recent Files\) | Ctrl + E /Cmd + E |
+| 导航类\(Navigate to class\) | Ctrl + N / Cmd + N |
+| 导航文件\(Navigate to File\) | Ctrl + Shift + N / Cmd + Shift + N |
 | 导航变量\(Navigate to Symbol | Ctrl + Shift + Alt + N |
-
-
 
 ### Quick Definition Viewer
 
@@ -40,6 +38,4 @@ mac: **Shfit + Cmd + I **
 查看一个类/文件/符号的定义
 
 ![](/assets/import.png)
-
-
 
