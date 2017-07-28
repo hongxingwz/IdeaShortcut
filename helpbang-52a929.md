@@ -4,3 +4,9 @@
 
 
 
+### Find Action\(查找行为\)
+
+mac: Shift + Cmd + A![](/assets/find-action.png)
+
+
+
