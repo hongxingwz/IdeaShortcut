@@ -9,8 +9,6 @@ win:** Control + Shift + R **
 
 mac:**Ctrl + Shift + R**
 
-
-
 ### 在文件下查找\(find in file\)
 
 mac: **Cmd + F**
@@ -18,6 +16,10 @@ mac: **Cmd + F**
 ### **在文件下替换\(Replace in file\)**
 
 mac: **Cmd + R**
+
+### 查找类，文件，工具，行为，设置和符号
+
+**double Shfit**
 
 ### 
 

@@ -31,5 +31,11 @@ InputStreamReader in = new InputStreamReader(System.in);
 BufferedReader reader = new BufferedReader(in);
 ```
 
+### 重构符号的名称， 返回值， 修饰符等
+
+Shift + Alt + Cmd + T
+
+![](/assets/import8.png)
+
 
 
