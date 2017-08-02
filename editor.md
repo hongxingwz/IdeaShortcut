@@ -107,8 +107,14 @@ mac: **Cmd + click** 文件导航处的标题
 ![](/assets/import2.png)
 
 ### 按住alt 拖动鼠标可进行多光标编辑
+![](/assets/import3.png)
 
-### ![](/assets/import3.png)
+### Alt + Shift + double-click
+
+可进行多光标编辑
+
+![](/assets/import-08-03-01.png)
+
 
 ### 如果你没有选中任何东西，而按Cmd + C,会复制光标所在的整行
 
@@ -116,5 +122,6 @@ mac: **Cmd + click** 文件导航处的标题
 
 ### 当使用自动弹出代码补全时，你可以通过**Ctrl + .**，你选中的名称会自动上去
 
-
+### complete words in the visible scope
+Alt + /  或 Alt + Shift + /
 
