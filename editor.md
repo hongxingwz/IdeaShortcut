@@ -93,7 +93,7 @@ mac: **alt + cmd + up / alt + cmd + down**
 
 mac: **Shift + Cmd + V**
 
-### 跳转到方法声明处
+### 跳转到方法声明处/从声明的方法跳转到刚才的调用处
 
 mac: **Cmd + B**
 
