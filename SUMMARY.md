@@ -10,6 +10,7 @@
 * [generate\(代码生成\)](dai-ma-sheng-cheng.md)
 * [Navigate\(导航\)](navigatedao-822a29.md)
 * [Editor\(编辑器\)](editor.md)
+    * [editor删除](editorshan-chu.md)
 * [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
 * [help\(帮助\)](helpbang-52a929.md)
 * [IntelliJ IDEA Tips](intellij-idea-tips.md)
@@ -21,4 +22,5 @@
 * [模版](mo-ban.md)
 * [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
 * [乱码问题汇总](luan-ma-wen-ti-hui-zong.md)
+
 
