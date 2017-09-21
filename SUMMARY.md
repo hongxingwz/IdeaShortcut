@@ -26,4 +26,5 @@
 * [模版](mo-ban.md)
 * [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
 * 快速弹出\(Quick Pop-ups\)
+* [基本的重构\(Refactoring basics\)](ji-ben-de-zhong-gou.md)
 
