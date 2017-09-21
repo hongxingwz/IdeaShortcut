@@ -29,4 +29,6 @@
 * [查找的用法\(Finding usages\)](finding-usages.md)
 * [检查\(Inspections\)](jian-67e528-inspections.md)
 * [代码风格和格式化](dai-ma-feng-ge-he-ge-shi-hua.md)
+* [基本的版本控制\(Version control basic\)](ji-ben-de-ban-ben-kong-523628-version-control-basic.md)
+* [编译\(Make\)](bian-8bd128-make.md)
 
