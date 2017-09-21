@@ -3,6 +3,8 @@
 * [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
 * [编辑器基本\(Editor Basics\)](bian-ji-qi-ji-ben.md)
 * [代码补全\(Code Completion\)](dai-ma-bu-516828-code-completion.md)
+* [导航 \(Navigation\)](dao-hang-navigator.md)
+* [快速弹出\(Quick Pop-ups\)](kuai-sudan-51fa28-quick-pop-ups.md)
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
@@ -23,6 +25,5 @@
 * [编码](bian-ma.md)
 * [模版](mo-ban.md)
 * [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
-* [乱码问题汇总](luan-ma-wen-ti-hui-zong.md)
-
+* 快速弹出\(Quick Pop-ups\)
 

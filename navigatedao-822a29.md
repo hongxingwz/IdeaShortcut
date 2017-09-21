@@ -22,14 +22,7 @@ Control + Alt + H
 
 Control + F12
 
-## 导航
 
-| action | description | Mac OS X 10.5+ |
-| :--- | :--- | :--- |
-| 最近打开的文件\(Recent Files\) | Ctrl + E /Cmd + E | ⌘E |
-| 导航类\(Navigate to class\) | Ctrl + N / Cmd + N | ⌘O |
-| 导航文件\(Navigate to File\) | Ctrl + Shift + N / Cmd + Shift + N | ⌘⇧O\(导航目标加斜杠/\) |
-| 导航变量\(Navigate to Symbol | Ctrl + Shift + Alt + N | ⌘⌥O |
 
 ### Quick Definition Viewer
 
