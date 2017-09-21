@@ -1,6 +1,7 @@
 # Summary
 
 * [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
+* [编辑器基本](bian-ji-qi-ji-ben.md)
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
@@ -22,5 +23,5 @@
 * [模版](mo-ban.md)
 * [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
 * [乱码问题汇总](luan-ma-wen-ti-hui-zong.md)
-* [编辑器基本](bian-ji-qi-ji-ben.md)
+
 
