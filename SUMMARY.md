@@ -6,6 +6,7 @@
 * [导航 \(Navigation\)](dao-hang-navigator.md)
 * [快速弹出\(Quick Pop-ups\)](kuai-sudan-51fa28-quick-pop-ups.md)
 * [基本的重构\(Refactoring basics\)](ji-ben-de-zhong-gou.md)
+* Finding usages
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
@@ -25,6 +26,7 @@
 * [右下角](you-xia-jiao.md)
 * [编码](bian-ma.md)
 * [模版](mo-ban.md)
-* [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
-
+* [查找的用法\(Finding usages\)](finding-usages.md)
+* [检查\(Inspections\)](jian-67e528-inspections.md)
+* [代码风格和格式化](dai-ma-feng-ge-he-ge-shi-hua.md)
 
