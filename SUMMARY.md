@@ -1,5 +1,6 @@
 # Summary
 
+* [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
@@ -11,7 +12,6 @@
 * [Navigate\(导航\)](navigatedao-822a29.md)
 * [Editor\(编辑器\)](editor.md)
     * [editor删除](editorshan-chu.md)
-* [用户界面\(User interface\)](yong-hu-jie-976228-user-interface.md)
 * [help\(帮助\)](helpbang-52a929.md)
 * [IntelliJ IDEA Tips](intellij-idea-tips.md)
 * [Auto Import\(自动导包\)](auto-importzi-dong-dao-530529.md)
