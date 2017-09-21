@@ -33,5 +33,8 @@
 * [模版](mo-ban.md)
 * [通常的指引\(General Guidelines\)](tong-chang-de-zhi5f1528-general-guidelines.md)
 * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
-* [创建 TODO 项](chuang-jian-todo-xiang.md)
+  * [创建 TODO 项](chuang-jian-todo-xiang.md)
+  * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
+
+
 
