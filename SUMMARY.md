@@ -20,4 +20,5 @@
 * [编码](bian-ma.md)
 * [模版](mo-ban.md)
 * [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
+* [乱码问题汇总](luan-ma-wen-ti-hui-zong.md)
 
