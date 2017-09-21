@@ -11,8 +11,7 @@
 * [代码风格和格式化](dai-ma-feng-ge-he-ge-shi-hua.md)
 * [基本的版本控制\(Version control basic\)](ji-ben-de-ban-ben-kong-523628-version-control-basic.md)
 * [编译\(Make\)](bian-8bd128-make.md)
-
-
+* 通常的指引\(General Guidelines\)
 * Finding usages
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
@@ -33,5 +32,4 @@
 * [右下角](you-xia-jiao.md)
 * [编码](bian-ma.md)
 * [模版](mo-ban.md)
-
 
