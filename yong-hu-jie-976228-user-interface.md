@@ -4,19 +4,35 @@
 
 下面是一些常用的激活工具窗口的快捷键
 
-| 工具窗口\(Tool Window\) | 快捷键 |
-| :--- | :--- |
-| Project\(项目\) | Alt + 1 |
-| Version Control\(版本控制\) | Alt + 9 |
-| Run\(运行\) | Alt + 4 |
-| Debug\(调试\) | Alt + 5 |
-| Terminal\(终端\) | win: Alt + F12   mac: Alt + F12 |
-| Editor\(编辑器\) | Escape\(Esc\) |
-| Navigation Bar\(导航栏\) | Alt + Home |
+| 工具窗口\(Tool Window\) | 快捷键 | Mac OS 10.5+ |
+| :--- | :--- | :--- |
+| Project\(项目\) | Alt + 1 | ⌘1 |
+| Version Control\(版本控制\) | Alt + 9 | ⌘9 |
+| Run\(运行\) | Alt + 4 |  |
+| Debug\(调试\) | Alt + 5 |  |
+| Terminal\(终端\) | win: Alt + F12   mac: Alt + F12 |  |
+| Editor\(编辑器\) | Escape\(Esc\) |  |
+| Navigation Bar\(导航栏\) | Alt + Home |  |
 
-**隐藏/恢复工具窗口\(让你专心的敲代码\)**:Control + Shift + F12
+## **隐藏/恢复工具窗口\(让你专心的敲代码\)**:
 
-导航栏是Project工具窗口的可选的压缩。访问导航栏，键入Alt+Home
+win: Control + Shift + F12
+
+Mac OS X 10.5+: ⌘⇧F12
+
+![](/assets/1505991516676.png)
+
+![](/assets/1505991546451.png)
+
+## 导航栏是Project工具窗口的可选的压缩。
+
+访问导航栏，键入
+
+win: Alt+Home
+
+Mac OS X 10.5: ⌘↑
+
+![](/assets/1505991421867.png)
 
 ## 模式\(mode\)
 
@@ -26,7 +42,7 @@ View \| Enter Distraction Free Mode
 空白了所有的工具窗口  
 ![](/assets/snapshot23.png)
 
-**全屏模式**  
+**全屏模式\(⌘⇧F\)**  
 View \| Enter Full Screen  
 **描述**：进入全屏\(和最大化窗口是有区别的\)
 

@@ -11,7 +11,7 @@
 * [generate\(代码生成\)](dai-ma-sheng-cheng.md)
 * [Navigate\(导航\)](navigatedao-822a29.md)
 * [Editor\(编辑器\)](editor.md)
-    * [editor删除](editorshan-chu.md)
+  * [editor删除](editorshan-chu.md)
 * [help\(帮助\)](helpbang-52a929.md)
 * [IntelliJ IDEA Tips](intellij-idea-tips.md)
 * [Auto Import\(自动导包\)](auto-importzi-dong-dao-530529.md)
@@ -22,5 +22,5 @@
 * [模版](mo-ban.md)
 * [tomcat控制台乱码问题](tomcatkong-zhi-tai-luan-ma-wen-ti.md)
 * [乱码问题汇总](luan-ma-wen-ti-hui-zong.md)
-
+* [编辑器基本](bian-ji-qi-ji-ben.md)
 
