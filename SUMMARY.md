@@ -39,4 +39,5 @@
 * [用户界面的向导](yong-hu-jie-mian-de-xiang-dao.md)
 * [欢迎屏幕\(Welcome Screen\)](huan-ying-ping-mu.md)
 * [菜单和工具栏\(Menus and Toolbars\)](cai-dan-he-gong-ju-lan.md)
+* [导航栏\(Navigation Bar\)](dao-hang-680f28-navigation-bar.md)
 
