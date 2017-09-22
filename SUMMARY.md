@@ -54,4 +54,5 @@
 * [撤销和重做改更\(Undoing and Redoing Changes\)](che-xiao-he-zhong-zuo-gai66f428-undoing-and-redoing-changes.md)
 * [\* 在编辑器中打开和重新打开文件\(Opening and Reopening Files in the Editor\)](zai-bian-ji-qi-zhong-da-kai-he-zhong-xin-da-kai-wen-4ef628-opening-and-reopening-files-in-the-editor.md)
 * [在编辑器中关闭文件\(Closing Files in the Editor\)](zai-bian-ji-qi-zhong-guan-bi-wen-4ef628-closing-files-in-the-editor.md)
+* ['镜头'模式\('Lens' Mode\)](jing-593427-mo-5f0f2827-lens-mode.md)
 
