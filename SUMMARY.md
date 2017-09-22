@@ -41,6 +41,6 @@
 * [菜单和工具栏\(Menus and Toolbars\)](cai-dan-he-gong-ju-lan.md)
 * [导航栏\(Navigation Bar\)](dao-hang-680f28-navigation-bar.md)
 * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
-* [Setting Backgroud image](setting-backgroud-image.md)
+* [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
 * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
 
