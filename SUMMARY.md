@@ -50,5 +50,6 @@
 * [\* 在编辑器中选择文本\(Selecting Text in the Editor\)](zai-bian-ji-qi-zhong-xuan-ze-wen-ben.md)
 * [剪切，复制和解析\(Cutting, Copying and Pasting\)](jian-qie-ff0c-fu-zhi-he-jie-xi.md)
 * [在IDEA和Explorer/Finder下复制和粘贴\(Copy and Paste Between IntelliJ IDEA and Explorer/Finder\)](zai-idea-he-explorer-finder-xia-fu-zhi-he-nian-tie.md)
-* [注释和取消注释一块代码](zhu-shi-he-qu-xiao-zhu-shi-yi-kuai-dai-ma.md)
+* [注释和取消注释一块代码\(Commenting and Uncommenting Blocks of Code\)](zhu-shi-he-qu-xiao-zhu-shi-yi-kuai-dai-ma.md)
+* [撤销和重做改更\(Undoing and Redoing Changes\)](che-xiao-he-zhong-zuo-gai66f428-undoing-and-redoing-changes.md)
 
