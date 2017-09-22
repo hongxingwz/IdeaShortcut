@@ -36,6 +36,7 @@
     * [创建 TODO 项](chuang-jian-todo-xiang.md)
     * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
     * [浏览 TODO 项](liu-lan-todo-xiang.md)
-
-
+* [用户界面的向导](yong-hu-jie-mian-de-xiang-dao.md)
+* [欢迎屏幕\(Welcome Screen\)](huan-ying-ping-mu.md)
+* [菜单和工具栏\(Menus and Toolbars\)](cai-dan-he-gong-ju-lan.md)
 
