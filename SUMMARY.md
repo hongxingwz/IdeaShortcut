@@ -52,4 +52,6 @@
 * [在IDEA和Explorer/Finder下复制和粘贴\(Copy and Paste Between IntelliJ IDEA and Explorer/Finder\)](zai-idea-he-explorer-finder-xia-fu-zhi-he-nian-tie.md)
 * [注释和取消注释一块代码\(Commenting and Uncommenting Blocks of Code\)](zhu-shi-he-qu-xiao-zhu-shi-yi-kuai-dai-ma.md)
 * [撤销和重做改更\(Undoing and Redoing Changes\)](che-xiao-he-zhong-zuo-gai66f428-undoing-and-redoing-changes.md)
+* [\* 在编辑器中打开和重新打开文件\(Opening and Reopening Files in the Editor\)](zai-bian-ji-qi-zhong-da-kai-he-zhong-xin-da-kai-wen-4ef628-opening-and-reopening-files-in-the-editor.md)
+* [在编辑器中关闭文件\(Closing Files in the Editor\)](zai-bian-ji-qi-zhong-guan-bi-wen-4ef628-closing-files-in-the-editor.md)
 
