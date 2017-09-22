@@ -14,7 +14,7 @@
   * [编译\(Make\)](bian-8bd128-make.md)
   * [运行和debuging\(Running and debugging\)](yun-xing-he-debuging.md)
   * [\* 应用程序服务 \(Application servers\)](ying-yong-cheng-xu-fu-wu.md)
-* [你不能错过的快捷键(Keyboard Shortcuts You Cannot Miss)](ni-bu-neng-cuo-guo-de-kuai-jie-jian.md)
+* [你不能错过的快捷键\(Keyboard Shortcuts You Cannot Miss\)](ni-bu-neng-cuo-guo-de-kuai-jie-jian.md)
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
@@ -35,7 +35,7 @@
 * [编码](bian-ma.md)
 * [模版](mo-ban.md)
 * [通常的指引\(General Guidelines\)](tong-chang-de-zhi5f1528-general-guidelines.md)
-  * IDEA编辑器
+  * [IDEA编辑器](ideabian-ji-qi.md)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
