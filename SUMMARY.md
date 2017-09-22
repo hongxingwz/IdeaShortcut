@@ -47,4 +47,5 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
+* [\* 在编辑器中选择文本\(Selecting Text in the Editor\)](zai-bian-ji-qi-zhong-xuan-ze-wen-ben.md)
 
