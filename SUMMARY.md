@@ -13,8 +13,8 @@
   * [基本的版本控制\(Version control basic\)](ji-ben-de-ban-ben-kong-523628-version-control-basic.md)
   * [编译\(Make\)](bian-8bd128-make.md)
   * [运行和debuging\(Running and debugging\)](yun-xing-he-debuging.md)
-  * [应用程序服务 (Application servers)](ying-yong-cheng-xu-fu-wu.md)
-* Finding usages
+  * [\* 应用程序服务 \(Application servers\)](ying-yong-cheng-xu-fu-wu.md)
+* [你不能错过的快捷键(Keyboard Shortcuts You Cannot Miss)](ni-bu-neng-cuo-guo-de-kuai-jie-jian.md)
 * [Introduction](README.md)
 * [git版本控制\)](git.md)
 * [serialize\(序列化\)](serialize.md)
@@ -47,6 +47,4 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
-
-
 
