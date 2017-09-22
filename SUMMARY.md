@@ -48,4 +48,5 @@
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
 * [\* 在编辑器中选择文本\(Selecting Text in the Editor\)](zai-bian-ji-qi-zhong-xuan-ze-wen-ben.md)
+* [剪切，复制和解析\(Cutting, Copying and Pasting\)](jian-qie-ff0c-fu-zhi-he-jie-xi.md)
 
