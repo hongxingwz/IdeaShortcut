@@ -9,5 +9,31 @@ IDEA提供特殊的视图模式
 
 * **专心模式 **不显示工具栏，不显示工具窗口，没有编辑tab，代码才是中心
 
+这些动作仅可以通过**View**菜单执行。默认它不映射任何的快捷键但是你可以创建你自己的快捷键通过Configuring Keyboard Shortcuts
+
+## 切换全屏模式
+除了管理工具窗口(展示/隐藏/或重新缩放), IDEA可以使整个窗口最大化，隐藏主菜单
+* 切换至全屏模式，选择View | Enter Full Screen 在主菜单
+* 退出全屏幕模式，选择View | Exit Full Screen 在主菜单
+
+## 切换至呈现模式
+在呈现模式，编辑器占居了正个屏幕。你可以定义在呈现模式中字体的大小在Appearane page设置框中
+* 切换至呈现模式， 选择View | Enter Presentation Mode 在主菜单
+* 退出至呈现模式， 选择View | Exit Presentation Mode 在主菜单
+
+## 切换至专心模式
+在专心模式下，编辑器占居IDEA的整个框架，没有任何的编辑器tab，工具窗口按钮。代码中心对齐
+* 切换至专心模式 ，选择View | Enter Distraction-Free Mode 在主菜单
+* 退出专心模式 ，选择View | Exit Distraction-Free Mode 在主菜单
+
+## 在切换弹出窗中切换视图模式
+
+1. 按**⌃\` **或选择 **View \| Quick Switch Scheme** 在主菜单中
+2. 在**Switch**弹出窗中，选择**View mode**
+3. 在上下文环境中，选择需要的模式。菜单的内容根据你当前的模式
+   * 进入呈现模式/退出呈现模式
+   * 进入专心模式/退出专心模式
+   * 进入全屏模式/退出全屏模式
+
 
 
