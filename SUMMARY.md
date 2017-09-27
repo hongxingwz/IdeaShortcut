@@ -49,7 +49,9 @@
       * [把编辑器添加到喜欢\(Adding Editors to Favorites\)](ba-bian-ji-qi-tian-jia-dao-xi-6b2228-adding-editors-to-favorites.md)
       * [保存和恢复更改\(Saving and Reverting Changes\)](bao-cun-he-hui-fu-geng-653928-saving-and-reverting-changes.md)
       * [放大编辑器\(Zooming in the Editor\)](fang-da-bianji-566828-zooming-in-the-editor.md)
-    * 先进的编辑器程序\(Advanced Editing Procedures\)
+    * [先进的编辑器程序\(Advanced Editing Procedures\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures.md)
+      * 折行和字符串\(Joining Lines and Literals\)
+      * Splitting Lines With String Literals
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
