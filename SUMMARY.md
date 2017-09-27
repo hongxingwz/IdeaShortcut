@@ -47,6 +47,7 @@
       * ['镜头'模式\('Lens' Mode\)](jing-593427-mo-5f0f2827-lens-mode.md)
       * [多重光标\(Multicursor\)](duo-zhong-guang-680728-multicursor.md)
       * [把编辑器添加到喜欢\(Adding Editors to Favorites\)](ba-bian-ji-qi-tian-jia-dao-xi-6b2228-adding-editors-to-favorites.md)
+      * 保存和恢复更改\(Saving and Reverting Changes\)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
@@ -58,4 +59,6 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
+
+
 
