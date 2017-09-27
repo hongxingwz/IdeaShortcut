@@ -18,3 +18,15 @@ IntelliJ IDEA makes it possible to change font size (zoom) in the active editor,
 * While keeping the Ctrl/⌘ key pressed, rotate the mouse wheel. As you rotate the mouse wheel forward, font size grows larger; as you rotate the mouse wheel backwards, font size decreases.
 
   The macOs users can use trackpad "Pinch-to-Zoom" gesture to change size of the font and the whole editing area.
+  
+## 使用键盘改变字体的大小
+**To change font size using the keyboard**
+* Press ⇧⌘A.
+* In the popup frame, **type Increase font size** or **Decrease font size**, and then click ⏎
+
+ Font grows larger or smaller.
+ 
+## 重新恢复默认的字体大小
+**To reset font size**
+* Press ⇧⌘A
+* In the popup frame, type **Reset font size**, and click ⏎. The default font size is restored.
