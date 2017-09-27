@@ -49,6 +49,7 @@
       * [把编辑器添加到喜欢\(Adding Editors to Favorites\)](ba-bian-ji-qi-tian-jia-dao-xi-6b2228-adding-editors-to-favorites.md)
       * [保存和恢复更改\(Saving and Reverting Changes\)](bao-cun-he-hui-fu-geng-653928-saving-and-reverting-changes.md)
       * [放大编辑器\(Zooming in the Editor\)](fang-da-bianji-566828-zooming-in-the-editor.md)
+    * 先进的编辑器程序\(Advanced Editing Procedures\)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
@@ -60,4 +61,6 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
+
+
 
