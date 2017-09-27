@@ -52,6 +52,7 @@
     * [先进的编辑器程序\(Advanced Editing Procedures\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures.md)
       * [重新格式化源码\(Reformatting Source Code\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/zhong-xin-ge-shi-hua-yuan-780128-reformatting-source-code.md)
       * [改变缩进\(Changing Indentation\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/gai-bian-suo-8fdb28-changing-indentation.md)
+      * 把代码元素装起来\(Folding Code Elements\)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
@@ -63,4 +64,6 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
+
+
 
