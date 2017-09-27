@@ -48,6 +48,7 @@
       * [多重光标\(Multicursor\)](duo-zhong-guang-680728-multicursor.md)
       * [把编辑器添加到喜欢\(Adding Editors to Favorites\)](ba-bian-ji-qi-tian-jia-dao-xi-6b2228-adding-editors-to-favorites.md)
       * [保存和恢复更改\(Saving and Reverting Changes\)](bao-cun-he-hui-fu-geng-653928-saving-and-reverting-changes.md)
+      * [放大编辑器\(Zooming in the Editor\)](fang-da-bianji-566828-zooming-in-the-editor.md)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
