@@ -35,11 +35,8 @@
 * [编码](bian-ma.md)
 * [模版](mo-ban.md)
 * [通常的指引\(General Guidelines\)](tong-chang-de-zhi5f1528-general-guidelines.md)
-
   * [IDEA编辑器](ideabian-ji-qi.md)
-
     * [基本的编辑器程序\(Basic Editing Procedures\)](ji-ben-de-bian-ji-qicheng-5e8f28-basic-editing-procedures.md)
-
       * [\* 在编辑器中选择文本\(Selecting Text in the Editor\)](zai-bian-ji-qi-zhong-xuan-ze-wen-ben.md)
       * [剪切，复制和解析\(Cutting, Copying and Pasting\)](jian-qie-ff0c-fu-zhi-he-jie-xi.md)
       * [在IDEA和Explorer/Finder下复制和粘贴\(Copy and Paste Between IntelliJ IDEA and Explorer/Finder\)](zai-idea-he-explorer-finder-xia-fu-zhi-he-nian-tie.md)
@@ -48,22 +45,16 @@
       * [\* 在编辑器中打开和重新打开文件\(Opening and Reopening Files in the Editor\)](zai-bian-ji-qi-zhong-da-kai-he-zhong-xin-da-kai-wen-4ef628-opening-and-reopening-files-in-the-editor.md)
       * [在编辑器中关闭文件\(Closing Files in the Editor\)](zai-bian-ji-qi-zhong-guan-bi-wen-4ef628-closing-files-in-the-editor.md)
       * ['镜头'模式\('Lens' Mode\)](jing-593427-mo-5f0f2827-lens-mode.md)
-      * 多重光标\(Multicursor\)
-
+      * [多重光标\(Multicursor\)](duo-zhong-guang-680728-multicursor.md)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
-
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
       * [浏览 TODO 项](liu-lan-todo-xiang.md)
-
   * [用户界面的向导](yong-hu-jie-mian-de-xiang-dao.md)
-
     * [欢迎屏幕\(Welcome Screen\)](huan-ying-ping-mu.md)
     * [菜单和工具栏\(Menus and Toolbars\)](cai-dan-he-gong-ju-lan.md)
     * [导航栏\(Navigation Bar\)](dao-hang-680f28-navigation-bar.md)
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
-
-
 
