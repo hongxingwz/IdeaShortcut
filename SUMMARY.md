@@ -74,4 +74,9 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
+  * 在源代码中导航\(Navigating Through the Source Code\)
+    * 以书签导航\(Navigating with Bookmarks\)
+      * 管理书签\(Managing Bookmarks\)
+
+
 
