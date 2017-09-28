@@ -55,7 +55,8 @@
       * [\*把代码元素装起来\(Folding Code Elements\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/ba-dai-ma-yuan-su-zhuang-qi-676528-folding-code-elements.md)
       * [浏览当前的光标位置\(Viewing Current Caret Location\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/liu-lan-dang-qian-de-guang-biao-wei-7f6e28-viewing-current-caret-location.md)
       * [切换可写的状态\(Toggling Writable Status\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/qie-huan-ke-xie-de-zhuang-600128-toggling-writable-status.md)
-      * 切换大小写\(Toggle Case\)
+      * [切换大小写\(Toggle Case\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/qie-huan-da-xiao-519928-toggle-case.md)
+      * 
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
