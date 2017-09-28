@@ -75,8 +75,6 @@
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
   * 在源代码中导航\(Navigating Through the Source Code\)
-    * 以书签导航\(Navigating with Bookmarks\)
-      * 管理书签\(Managing Bookmarks\)
-
-
+    * [以书签导航\(Navigating with Bookmarks\)](yi-shu-qian-dao-822a28-navigating-with-bookmarks.md)
+      * [管理书签\(Managing Bookmarks\)](guan-li-shu-7b7e28-managing-bookmarks.md)
 
