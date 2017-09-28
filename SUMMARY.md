@@ -57,7 +57,7 @@
       * [切换可写的状态\(Toggling Writable Status\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/qie-huan-ke-xie-de-zhuang-600128-toggling-writable-status.md)
       * [切换大小写\(Toggle Case\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/qie-huan-da-xiao-519928-toggle-case.md)
       * [Highlighting Braces](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/highlighting-braces.md)
-      * 添加，删除 和 移动 代码元素\(Adding, Deleting and Moving Code Elements\)
+      * [添加，删除 和 移动 代码元素\(Adding, Deleting and Moving Code Elements\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/tian-jia-ff0c-shan-chu-he-yi-dong-dai-ma-yuan-7d2028-adding-deleting-and-moving-code-elements.md)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
@@ -69,6 +69,4 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
-
-
 
