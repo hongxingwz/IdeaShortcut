@@ -62,7 +62,7 @@
       * 把字符串字面量分割为多行\(Splitting Lines With String Literals\)
       * 以换行符分割字符串\(Splitting String Literals on Newline Symbols\)
       * [\* 以表格的形式编辑CSV和相似文件\(Editing CSV and Similar Files in Table Format\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/yi-biao-ge-de-xing-shibian-ji-csv-he-xiang-si-wen-4ef628-editing-csv-and-similar-files-in-table-format.md)
-      * 在编辑中使用拖放\(Using Drag-and-Drop in the Editor\)
+      * [在编辑中使用拖放\(Using Drag-and-Drop in the Editor\)](xian-jin-de-bian-ji-qi-cheng-5e8f28-advanced-editing-procedures/zai-bian-ji-zhong-shi-yong-tuo-653e28-using-drag-and-drop-in-the-editor.md)
     * [使用TODO\(Using TODO\)](shi-yong-todo-using-todo.md)
       * [创建 TODO 项](chuang-jian-todo-xiang.md)
       * [定义TODO模式和过滤](ding-yi-todo-mo-shi-he-guo-lv.md)
@@ -74,6 +74,4 @@
     * [状态栏\(Status Bar\)](zhuang-tai-680f28-status-bar.md)
     * [设置背影图片\(Setting Backgroud image\)](setting-backgroud-image.md)
     * [IDEA的视图模式\(IDEA Viewing Modes\)](ideade-shi-tu-mo-shi.md)
-
-
 
