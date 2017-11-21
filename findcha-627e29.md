@@ -1,13 +1,15 @@
 ### 在路径下查找\(find in path\)
 
-win:** Control + Shift + F**  
+win:** Control + Shift + F**
+
+**mac: Cmd + Shift + F**  
 后接Ctrl + Enter 可以展示在查找面板
 
 ### 在路径下查找并替换\(Replace in path\)
 
 win:** Control + Shift + R **
 
-mac:**Ctrl + Shift + R**
+mac:**Cmd + Shift + R**
 
 ### 在文件下查找\(find in file\)
 
