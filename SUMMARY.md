@@ -80,4 +80,5 @@
 * 与源码一起工作\(Working with source code\)
   * 在源码间导航\(Navigating Through the Source Code\)
     * [在大括号这间导航\(Navigating to Braces\)](zai-da-kuo-hao-zhe-jian-dao-822a28-navigating-to-braces.md)
+  * [导航至动作\(Navigating to Action\)](dao-hang-zhi-dong-4f5c28-navigating-to-action.md)
 
