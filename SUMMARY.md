@@ -79,7 +79,5 @@
       * [管理书签\(Managing Bookmarks\)](guan-li-shu-7b7e28-managing-bookmarks.md)
 * 与源码一起工作\(Working with source code\)
   * 在源码间导航\(Navigating Through the Source Code\)
-    * 在大括号这间导航\(Navigating to Braces\)
-
-
+    * [在大括号这间导航\(Navigating to Braces\)](zai-da-kuo-hao-zhe-jian-dao-822a28-navigating-to-braces.md)
 
